@@ -1,4 +1,4 @@
-- [关于 python 的故事](01.md)
+- [关于 Python 的故事](01.md)
 - [从小工到专家](02.md)
 - [Python 安装](03.md)
 - [集成开发环境(IDE)](101.md)
@@ -79,5 +79,5 @@
 - [Pandas使用(1)](311.md)
 - [Pandas使用(2)](312.md)
 - [处理股票数据](313.md)
-- [如何成为 python 高手](n001.md)
+- [如何成为 Python 高手](n001.md)
 - [ASCII、Unicode、GBK 和 UTF-8 字符编码的区别联系](n002.md)
